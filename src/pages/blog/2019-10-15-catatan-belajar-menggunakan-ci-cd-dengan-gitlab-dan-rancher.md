@@ -10,8 +10,6 @@ tags:
   - CI/CD
   - Rancher
 ---
-Catatan kali ini menjelaskan tentang tahap-tahap menggunakan CI/CD dengan Gitlab dan Rancher.
-
 1. **instalasi Runner Gitlab base Docker Container**
 
 Pada bagian sebelumnya saya pernah melakukan percobaan untuk menginstall Gitlab Runner spesifik di VPS Host, dan di video ini akan di jelaskan bagaimana cara membuat Shared Runner di Gitlab di Docker.
